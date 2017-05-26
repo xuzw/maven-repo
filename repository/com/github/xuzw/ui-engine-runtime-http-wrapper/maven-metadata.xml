@@ -3,7 +3,7 @@
   <groupId>com.github.xuzw</groupId>
   <artifactId>ui-engine-runtime-http-wrapper</artifactId>
   <versioning>
-    <release>1.7.2</release>
+    <release>1.7.3</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -24,7 +24,8 @@
       <version>1.4.0</version>
       <version>1.7.1</version>
       <version>1.7.2</version>
+      <version>1.7.3</version>
     </versions>
-    <lastUpdated>20170525051751</lastUpdated>
+    <lastUpdated>20170526061218</lastUpdated>
   </versioning>
 </metadata>
