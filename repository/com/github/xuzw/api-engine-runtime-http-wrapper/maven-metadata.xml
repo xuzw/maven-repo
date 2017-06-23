@@ -3,13 +3,14 @@
   <groupId>com.github.xuzw</groupId>
   <artifactId>api-engine-runtime-http-wrapper</artifactId>
   <versioning>
-    <release>1.0.2.r1</release>
+    <release>1.0.2.r2</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
       <version>1.0.2</version>
       <version>1.0.2.r1</version>
+      <version>1.0.2.r2</version>
     </versions>
-    <lastUpdated>20170623091901</lastUpdated>
+    <lastUpdated>20170623094031</lastUpdated>
   </versioning>
 </metadata>
